@@ -1,0 +1,16 @@
+{
+  "name": "fake-nitro-gen",
+  "version": "1.0.0",
+  "description": "The discord bot that generates fake nitro links.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "node generator.js"
+  },
+  "author": "DevMirza",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "discord.js": "^11.5.1",
+    "generate-password": "^1.4.2"
+  }
+}
