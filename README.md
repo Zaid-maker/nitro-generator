@@ -1,3 +1,2 @@
-# fake-nitro-gen
-
-Thanks to ![Androz](https://github.com/Androz2091) for making this possible.
+# Nitro Generator
+A good bot to troll your friends in your discord server.
